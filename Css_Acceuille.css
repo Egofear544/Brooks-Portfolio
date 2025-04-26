@@ -2,6 +2,9 @@
     background-color: #0c0c0c;
     color: white;
     padding: 10px 0;
+    display: flex;
+    left: auto;
+    justify-content: center;
     width: 100%;
     max-width: 10100px;
     text-align: center;
@@ -168,7 +171,9 @@ button:hover {
     position: relative;
     bottom: -900px;
     width: 100%;
-    left: 0;
+    display: flex;
+    justify-content: center;
+    left: auto;
     box-shadow: 10px 10px 50px rgba(28, 27, 27, 0.3);
   }
   .socials {
