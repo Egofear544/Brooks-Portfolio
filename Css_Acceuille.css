@@ -5,7 +5,7 @@
     display: flex;
     left: auto;
     justify-content: center;
-    width: 100%;
+    width: 125%;
     max-width: 10100px;
     text-align: center;
     box-shadow: 10px 10px 50px rgba(28, 27, 27, 0.3);
@@ -170,7 +170,7 @@ button:hover {
     color: white;
     position: relative;
     bottom: -900px;
-    width: 100%;
+    width: 125%;
     display: flex;
     justify-content: center;
     left: auto;
